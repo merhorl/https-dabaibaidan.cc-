@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monster Survivors - Thrilling Action-Packed Survival Game | Play Online Free</title>
+    <meta name="description" content="Play Monster Survivors online free - a thrilling action-packed game challenging you to outlive hordes of terrifying monsters with strategic fast-paced combat.">
+    <meta name="keywords" content="Monster Survivors, online game, survival game, action game, free games, browser game">
+    <link rel="canonical" href="https://dabaibaidan.cc/">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #1d1d1f;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(20px);
+            border-radius: 20px;
+            padding: 40px 20px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            font-weight: 700;
+            background: linear-gradient(45deg, #007aff, #5856d6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 15px;
+            letter-spacing: -0.02em;
+        }
+
+        .subtitle {
+            font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+            color: #6e6e73;
+            font-weight: 400;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .game-section {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(20px);
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            font-size: clamp(1.5rem, 3vw, 2rem);
+            color: #1d1d1f;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        .game-iframe-container {
+            position: relative;
+            width: 100%;
+            height: 0;
+            padding-bottom: 56.25%;
+            margin: 20px 0;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        }
+
+        .game-iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            border-radius: 15px;
+        }
+
+        .game-description {
+            font-size: 1.1rem;
+            color: #424245;
+            line-height: 1.7;
+            margin-bottom: 25px;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .feature-card {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            padding: 25px;
+            border-radius: 15px;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            display: block;
+        }
+
+        .feature-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #1d1d1f;
+            margin-bottom: 10px;
+        }
+
+        .feature-text {
+            color: #6e6e73;
+            font-size: 0.95rem;
+        }
+
+        .tips-section {
+            background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%);
+            color: #1d1d1f;
+        }
+
+        .tip-highlight {
+            background: rgba(255, 255, 255, 0.3);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 15px 0;
+            border-left: 4px solid #007aff;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+            
+            header {
+                padding: 30px 15px;
+            }
+            
+            .game-section {
+                padding: 20px;
+            }
+            
+            .features {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .game-iframe-container {
+                padding-bottom: 75%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Monster Survivors</h1>
+            <p class="subtitle">Survive the ultimate battle against terrifying monster hordes in this thrilling action-packed survival game</p>
+        </header>
+
+        <main>
+            <section class="game-section">
+                <h2>馃幃 Play Monster Survivors Online</h2>
+                <div class="game-iframe-container">
+                    <iframe 
+                        src="https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html"
+                        class="game-iframe"
+                        allowfullscreen
+                        title="Monster Survivors Game">
+                    </iframe>
+                </div>
+                <p class="game-description">
+                    Experience the ultimate survival challenge! Monster Survivors combines strategic thinking with fast-paced combat as you face endless waves of terrifying creatures. Test your skills, upgrade your abilities, and see how long you can survive in this intense battle for survival.
+                </p>
+            </section>
+
+            <section class="game-section">
+                <h2>馃幆 Game Overview</h2>
+                <p class="game-description">
+                    Monster Survivors is a thrilling action-packed game that challenges you to outlive hordes of terrifying monsters. With its unique blend of strategy and fast-paced combat, this game offers an immersive survival experience that will keep you on the edge of your seat. Navigate through dangerous territories, collect powerful weapons, and use your tactical skills to overcome increasingly difficult waves of enemies.
+                </p>
+                
+                <div class="features">
+                    <div class="feature-card">
+                        <span class="feature-icon">鈿旓笍</span>
+                        <div class="feature-title">Strategic Combat</div>
+                        <div class="feature-text">Combine strategy with fast reflexes to defeat monster hordes</div>
+                    </div>
+                    <div class="feature-card">
+                        <span class="feature-icon">馃洝锔 </span>
+                        <div class="feature-title">Character Progression</div>
+                        <div class="feature-text">Upgrade your abilities and unlock powerful equipment</div>
+                    </div>
+                    <div class="feature-card">
+                        <span class="feature-icon">馃懝</span>
+                        <div class="feature-title">Endless Waves</div>
+                        <div class="feature-text">Face increasingly challenging monster encounters</div>
+                    </div>
+                    <div class="feature-card">
+                        <span class="feature-icon">馃幉</span>
+                        <div class="feature-title">Multiple Characters</div>
+                        <div class="feature-text">Choose from different character classes with unique abilities</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="game-section tips-section">
+                <h2>馃挕 Pro Tips & Strategies</h2>
+                <div class="tip-highlight">
+                    <strong>Mage Strategy:</strong> Use the mage character with the exclusive cloak item for maximum effectiveness. Focus on attack speed upgrades to become nearly invincible throughout your survival run.
+                </div>
+                <p class="game-description">
+                    Master the art of survival by choosing the right character class and equipment combinations. Each playthrough offers new challenges and opportunities to refine your strategy. Remember to prioritize upgrades that complement your chosen character's strengths for the best survival chances.
+                </p>
+            </section>
+
+            <section class="game-section">
+                <h2>馃殌 Start Your Survival Journey</h2>
+                <p class="game-description">
+                    Ready to test your survival skills? Monster Survivors offers endless replayability with its dynamic gameplay and strategic depth. Whether you're a casual gamer looking for quick entertainment or a hardcore player seeking the ultimate challenge, this game delivers an engaging experience that will keep you coming back for more.
+                </p>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 dabaibaidan.cc - Play Monster Survivors Online Free</p>
+        </footer>
+    </div>
+</body>
+</html>
